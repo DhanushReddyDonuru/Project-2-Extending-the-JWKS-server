@@ -75,4 +75,4 @@ start htmlcov\index.html
 
 - [Gradebot Output](Gradebot.png): Shows Gradebot rubric table and points awarded.!
 - [Test Coverage Report](<Testsuite Coverage.png>): Shows the test coverage percentage and coverage details for `test_server.py`.
-- Link for the testsuite coverage file:///C:/Users/DonuruDhanushReddy/project2/htmlcov/function_index.html
+- Html Link for the testsuite coverage file:///C:/Users/DonuruDhanushReddy/project2/htmlcov/function_index.html
